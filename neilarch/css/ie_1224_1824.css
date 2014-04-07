@@ -1,0 +1,13 @@
+	.project-box{
+		width:19.65%;
+		margin-left:0.35%;
+		position:relative;
+		margin-bottom:5px;
+	}
+	.project-box h3.projects-title{
+		width:100%;
+		position:absolute;
+		bottom:0;
+		left:0;
+	}
+    

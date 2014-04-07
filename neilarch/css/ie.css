@@ -1,0 +1,22 @@
+.site-header .logo {
+	background: url(images/neil-architecture.png) no-repeat;
+	width: 282px;
+	height: 31px;
+}
+
+.home-block-img{
+	width:67.2em;
+	margin:0px auto;
+	height:500px;
+	overflow:hidden;
+}
+
+.home-block-img img{
+	width:67.2em;
+	min-height:500px;
+}
+
+.main-navigation li ul li ul{
+	margin-left:24px;
+	margin-top:24px;
+}

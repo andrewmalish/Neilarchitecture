@@ -1,0 +1,72 @@
+	.home-block .home-block-img h1{
+		margin-left:370px;
+	}
+	.grid-layout{
+		width:100% !important;
+	}
+	.main-navigation{
+		margin-top:90px;
+		margin-right: 40px;
+	}
+	.wrapper{
+		width:310px !important;
+		min-width:310px !important;
+	}
+	.project-box{
+		width:99.5%;
+		margin-left: 0.5%;
+		max-width:310px;
+		clear:both;
+		text-align:center;
+		max-height:20em;
+		margin-bottom:5px;
+		position:relative;
+		
+	}
+	.project-box h3.projects-title{
+		width:99.5%;
+		position:absolute;
+		bottom:0;
+	}
+    .project-box.navigation{
+    background:  #E3E3E3;
+    margin-left: 0.5%;
+    width: 99.5%;
+        
+}
+	.site-header{
+		width:100%;
+		min-width : 100px;
+		max-width : 310px;
+		margin:0;
+	}
+	.site-header .logo {
+		margin: 30px 0 30px 12px;
+	}
+	#footer{
+		width:100%;
+		min-width : 100px;
+		max-width : 310px;
+		margin:0!important;
+		text-align:center;
+	}
+	#footer .site-info .copy-info .copyright{
+		width:310px !important;
+		margin-left:0 !important;
+	}
+	#footer .site-info .copy-info {
+		width: 100%!important;
+	}
+	#footer .site-info .copy-info .des-link{
+		float: none;
+		margin: 0 auto;
+		overflow: hidden;
+		display: block;
+		width: 80px;
+	}
+	#page {
+		margin: 0 auto !important;
+		min-width : 100px !important;
+		max-width : 310px !important;
+		overflow: hidden !important;
+	}
